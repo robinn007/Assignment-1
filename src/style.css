@@ -60,6 +60,7 @@ h1 {
     border-bottom-right-radius: 200px;
     border-bottom-left-radius: 200px;
     height: 520px;
+    object-fit: cover;
 
 }
 
@@ -93,7 +94,7 @@ h1 {
     height: 622px;
     width: 1271px;
     margin-left: 78px;
-    margin-top: 10px;
+    margin-top: 90px;
     margin-right: 91.31px;
     margin-bottom: 0%;
 }
@@ -109,10 +110,10 @@ font-weight: 600;
 line-height: 18px;
 letter-spacing: 0em;
 color: #2858FF;
-margin-top: 8px;
-margin-right: 610px;
+margin-top: 36px;
+/*margin-right: 500px;*/
 margin-bottom: 0px;
-margin-left: 597px;
+margin-left: 724px;
 padding: 0%;
 }
 
@@ -126,8 +127,8 @@ h2 {
     text-align: center;
     margin-top: 0px;
     padding: 0%;
-    margin-right: 292px;
-    margin-left: 292px;
+    /*margin-right: 292px;*/
+    margin-left: 420px;
     margin-bottom: 8px;
 }
 .midtext{
@@ -143,22 +144,22 @@ letter-spacing: 0em;
 text-align: center;
 color: #190D37;
 margin-top: 0px;
-margin-right: 370px;
+/*margin-right: 370px;*/
 margin-bottom: 48px;
-margin-left: 328px;
+margin-left: 400px;
 padding: auto;
 }
 
 .container {
 display: grid;
-row-gap: 40px;
-column-gap: 4px;
+row-gap: 10px;
+column-gap: 0px;
 grid-template-columns: repeat(3, 380px);
 grid-template-rows: repeat(3,320px);
 max-width: fit-content;
 height: 291px;
-margin-left: 80px;
-margin-right: 80px;
+margin-left: 240px;
+/*margin-right: 80px;*/
 border-collapse: collapse;
 }
 #box-1{
@@ -209,9 +210,9 @@ background: #FFFFFF;
 #projects{
     width: 1060px;
     height: 760px;
-    margin-top: 8px;
-    margin-right: 190px;
-    margin-left: 198px;
+    margin-top: 40px;
+    /*margin-right: 190px;*/
+    margin-left: 320px;
     margin-bottom: 40px;
 }
 
@@ -374,8 +375,8 @@ display: inline-block;
 #pricing {
 height: 680px;
 width: 1060px;
-margin-right: 190px;
-margin-left: 190px;
+/*margin-right: 190px;*/
+margin-left: 320px;
 
 }
    
@@ -432,8 +433,8 @@ margin-bottom: 0px;
 }
 #price-box{
 display: grid;
-row-gap: 40px;
-column-gap: 8px;
+row-gap: 12px;
+column-gap: 24px;
 grid-template-columns: repeat(3, 280px);
 grid-template-rows: repeat(3,430px);
 max-width: fit-content;
@@ -588,8 +589,8 @@ color: #2858FF;
 #questions{
     width: 700px;
     height: 467px;
-    margin-left: 370px;
-    margin-right: 370px;
+    margin-left: 440px;
+    /*margin-right: 370px;*/
     margin-top: 40px;
 }
 .question{
