@@ -92,10 +92,10 @@ h1 {
 
 #about{
     height: 622px;
-    width: 1271px;
-    margin-left: 78px;
+    width: 1240px;
+    margin-left: 0px;
     margin-top: 90px;
-    margin-right: 91.31px;
+    /*margin-right: 91.31px;*/
     margin-bottom: 0%;
 }
 #what-i-do{
@@ -212,7 +212,7 @@ background: #FFFFFF;
     height: 760px;
     margin-top: 40px;
     /*margin-right: 190px;*/
-    margin-left: 320px;
+    margin-left: 240px;
     margin-bottom: 40px;
 }
 
