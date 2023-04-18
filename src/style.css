@@ -162,7 +162,7 @@ grid-template-columns: repeat(3, 380px);
 grid-template-rows: repeat(3,320px);
 max-width: fit-content;
 height: 291px;
-margin-left: 190px;
+margin-left: 130px;
 /*margin-right: 80px;*/
 border-collapse: collapse;
 text-align: end;
